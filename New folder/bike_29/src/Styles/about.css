@@ -1,0 +1,18 @@
+.item {
+    height: 160px;
+    width: 90%;
+    border: solid 1px honeydew;
+    margin: 5px 60px 15px 0px;
+    box-shadow: 10px 10px 9px 3px honeydew;
+}
+.background{
+    background-image: linear-gradient(#FC5E55,#FA4083);
+}
+.font{
+    text-align: center;
+    padding: 12px;
+
+}
+.logo{
+    text-align: center;
+}
